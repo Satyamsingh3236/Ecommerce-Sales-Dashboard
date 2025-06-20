@@ -32,5 +32,5 @@ Recommended Structure and Order
  •  📊 Clean and Interactive Design
      Easy-to-read visuals that help in making quick business decisions.
 
-5. Screenshorts Link:
+5. Dashboard Screenshorts Link:
    Link:-https://github.com/Satyamsingh3236/Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dashboard%20Image.png
